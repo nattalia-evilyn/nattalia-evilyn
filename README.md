@@ -1,5 +1,5 @@
 ## Hi! I'm Nattalia Evilyn 👋
-![snake gif](https://github.com/nattalia-evilyn/nattalia-evilyn/blob/output/github-contribution-grid-snake.gif)
+
 
 
 
