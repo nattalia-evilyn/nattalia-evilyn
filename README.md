@@ -1,13 +1,12 @@
 ## Hi! I'm Nattalia Evilyn 👋
 
-
-
-
 - 🌱Learning front-end React.
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact:  I have a fluffy coding buddy who supervises all my work 🐈
 
-  ![Nattalia GitHub stats](https://github-readme-stats.vercel.app/api?username=nattalia-evilyn&show_icons=true&theme=dark)
+![Nattalia GitHub stats](https://github-readme-stats.vercel.app/api?username=nattalia-evilyn&show_icons=true&theme=dark&rank_icon=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nattalia-evilyn&layout=compact&theme=dark)
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Nattalia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
